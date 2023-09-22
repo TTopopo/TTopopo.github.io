@@ -1,0 +1,30 @@
+header {
+  background-color: #01f30d;
+  padding: 20px;
+}
+
+.logo {
+  font-size: 5em;
+  color: #fff;
+}
+
+footer {
+  background-color: #01f30d;
+  padding: 20px;
+  color: #fff;
+}
+
+canvas {
+  border: 1px solid rgb(2, 2, 2);
+  background: rgb(190, 189, 189);
+}
+
+.container {
+  display: flex;
+}
+
+.block {
+  flex: 1;
+  border: 1px solid black;
+  padding: 10px;
+}
