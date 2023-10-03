@@ -3,8 +3,12 @@ header {
   padding: 20px;
 }
 
+body {
+  overflow: hidden;
+}
+
 .logo {
-  font-size: 5em;
+  font-size: 4em;
   color: #fff;
 }
 
@@ -27,4 +31,10 @@ canvas {
   flex: 1;
   border: 1px solid black;
   padding: 10px;
+}
+#block1 {
+  padding-left: 20px;
+}
+#block2 {
+  padding-left: 150px;
 }
